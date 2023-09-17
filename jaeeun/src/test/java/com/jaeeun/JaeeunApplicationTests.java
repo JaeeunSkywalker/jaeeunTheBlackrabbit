@@ -1,4 +1,4 @@
-package com.jaeeun.jaeeun;
+package com.jaeeun;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
