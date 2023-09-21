@@ -10,6 +10,8 @@ https://shorturl.at/gDSX9<br>
 [묘공단-스프링부트3-5장] ORM에 대해 이야기할 때가 되었어요<br>
 https://shorturl.at/eDGN4<br>
 ## 3주차
+[묘공단-스프링부트3-6장] JPA를 활용한 CRUD<br>
+https://shorturl.at/eoTZ6<br>
 ## 4주차
 ## 5주차
 ## 6주차
