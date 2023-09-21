@@ -18,6 +18,8 @@ https://shorturl.at/ltRV9<br>
 [묘공단-스프링부트3-8장] Spring Security를 최신 버전으로 올려 봅시다<br>
 https://shorturl.at/xBHI7<br>
 ## 5주차
+[묘공단-스프링부트3-9장] JWT 이거 auto-k 쓰는 고얌(주의: JWT 얘기는 별로 없음)<br>
+https://shorturl.at/avS57<br>
 ## 6주차
 ## 7주차
 ## 8주차
