@@ -21,5 +21,7 @@ https://shorturl.at/xBHI7<br>
 [묘공단-스프링부트3-9장] JWT 이거 auto-k 쓰는 고얌(주의: JWT 얘기는 별로 없음)<br>
 https://shorturl.at/avS57<br>
 ## 6주차
+[묘공단-스프링부트3-10장] OAuth2로 로그인/로그아웃 구현하기<br>
+https://shorturl.at/bmn37<br>
 ## 7주차
 ## 8주차
