@@ -25,6 +25,7 @@ https://shorturl.at/avS57<br>
 https://shorturl.at/bmn37<br>
 ## 7주차
 [묘공단-스프링부트3-11장] 물리 서버 VS 클라우드 서버(feat. 묘공단 블로깅 중간 정산)<br>
+https://shorturl.at/exBE5<br>
 11장은 소스 수정한 것이 없습니다.
 ## 8주차
 12장은 소스 수정한 것이 없습니다.
